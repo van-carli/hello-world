@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Este repositório contém meu primeiro arquivo criado durante a primeira aula do curso "Desenvolvimento de Software com Foco em Back End" na Cubos Academy. Uma aplicação simples do que foi aprendido acerca de assuntos como clonagem de repositórios e publicação de códigos no GitHub.
+This repository contains my first file created during the first class of the course 'Software Development with a Focus on Back End' at Cubos Academy. It's a simple application of what was learned about topics like repository cloning and code publishing on GitHub.
